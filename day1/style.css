@@ -1,0 +1,47 @@
+body{
+    background-color: #FFD8D9;
+}
+.profile , .home-page{
+    text-align: center;
+    margin: 20px auto;
+}
+.secound-content {
+    text-align: left;
+    font-weight: bold;
+}
+.third-content, .top{
+    text-align: left !important;
+}
+.content{
+    text-decoration: underline;
+    padding-left: 10px;
+}
+.bold{
+    font-weight: bold;
+}
+.underline{
+    text-decoration: underline;
+}
+.italic{
+    font-style: italic;
+}
+.diffrent-fonts{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.diffrent-size{
+    font-size: smaller;
+}
+.diffrent-colors{
+    color: red;
+}
+.finish-img{
+    width: 50px;
+    height: 25px;
+    background-color: #fff;
+}
+.demo-img{
+    text-align: center;
+}
+.img-footer{
+    text-align: center;
+}
